@@ -24,7 +24,7 @@
             <version>3.3.2</version> 
     </plugin>
         <configuration>
-             <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+             <webXml>/root/tomcat/apache-tomcat-9.0.84/webapps/my-app/WEB-INF/web.xml</webXml>
         </configuration>
         
     </plugins>
